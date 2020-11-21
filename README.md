@@ -135,7 +135,7 @@ Vue 方面的话，我主要是师从黄轶老师，跟着他认真走，基本�
    以[vue-promised](https://github.com/posva/vue-promised)这个库为例。
    Promised 组件并不关注你的视图展示成什么样，它只是帮你管理异步流程，并且通过你传入的`slot-scope`，在合适的时机把数据回抛给你，并且帮你去展示你传入的视图。
 
-```xml
+```vue
 <template>
   <Promised :promise="usersPromise">
     <!-- Use the "pending" slot to display a loading message -->
@@ -535,7 +535,7 @@ vue-composition-api 的 rfc 文档，在国内资料还不齐全的情况下，�
 
 在 Vue2 里，可以通过`plugin`先体验`composition-api`，截取这篇文章对应的实战项目中的一小部分代码吧：
 
-```xml
+```vue
 <template>
   <Books :books="booksAvaluable" :loading="loading" />
 </template>
