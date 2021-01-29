@@ -15,6 +15,8 @@
 
 [我的 blog 地址](https://github.com/sl1673495/blogs)，这里会持续更新，点个 star 不失联！✨
 
+我的公众号[前端从进阶到入院](https://ssh-1300257814.cos.ap-shanghai.myqcloud.com/public_qrcode)，长期第一时间更新优质文章。
+
 ## 基础能力
 
 我整理了一篇中级前端的必备技术栈能力，[写给女朋友的中级前端面试秘籍](https://juejin.im/post/5e7af0685188255dcf4a497e) 。这篇文章里的技术栈当然都是需要扎实掌握的，（其实我自己也有一些漏缺，偷偷补一下）。
