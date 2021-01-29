@@ -15,7 +15,7 @@
 
 [我的 blog 地址](https://github.com/sl1673495/blogs)，这里会持续更新，点个 star 不失联！✨
 
-我的公众号[前端从进阶到入院](https://ssh-1300257814.cos.ap-shanghai.myqcloud.com/public_qrcode)，长期第一时间更新优质文章。
+我的公众号[前端从进阶到入院](https://ssh-1300257814.cos.ap-shanghai.myqcloud.com/public_qrcode)，长期第一时间更新优质文章，还有技术氛围贼好的交流群欢迎你。
 
 ## 基础能力
 
