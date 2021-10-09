@@ -1,8 +1,10 @@
 ## 作者
 
-我是 ssh，欢迎找我交个朋友，微信：**[sshsunlight](https://images.gitee.com/uploads/images/2021/0528/190352_ae7dcd60_1087321.png)**，我喜欢分享前端的前沿趋势和一些有趣的事情。
+大家好，我是 ssh，现在在字节跳动的 Web Infra 担任前端工程师。
 
-关注公众号「**[前端从进阶到入院](https://user-gold-cdn.xitu.io/2020/4/5/17149ccf687b7699?w=910&h=436&f=jpeg&s=78195)**」，精选超级优质的文章，助你前端成神之路。
+我会在公众号「前端从进阶到入院」每日更新精心挑选的技术文章（标准就是我自己看了也会有收获），欢迎大家一起成长。
+
+![qrcode_for_gh_d2b31290dd8b_258](https://user-images.githubusercontent.com/23615778/134800856-9a44fa9a-4f1b-4884-a0b6-b58c5f3331df.jpg)
 
 ## 前言
 
